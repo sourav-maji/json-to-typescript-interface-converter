@@ -18,9 +18,13 @@ Built with **React (Vite)**, **TypeScript**, **TailwindCSS**, and deployed on **
 ---
 
 ## 🖼️ Demo
-👉 [Live Demo on Vercel]()  
+👉 [Live Demo on Vercel](https://jsontotypescript.vercel.app/)  
+---
 
 
+## Screenshot
+
+![](image.png)
 ---
 
 ## 📦 Tech Stack
