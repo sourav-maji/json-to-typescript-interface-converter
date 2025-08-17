@@ -142,12 +142,7 @@ export default function App() {
             rel="noopener noreferrer"
             className="text-gray-600 dark:text-gray-300 hover:text-black"
           >
-             <a
-            href="https://github.com/sourav-maji"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-gray-600 dark:text-gray-300 hover:text-black"
-          >Github</a>
+            Github
           </a>
         </div>
       </footer>
